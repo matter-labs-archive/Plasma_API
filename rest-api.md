@@ -20,7 +20,7 @@
 
 ## Signed payload
 
-* Some endpoints require to send payload which must be sign with *Private key* - *signature*
+* Some endpoints require to send payload which must be signed with *Private key* - *signature*
 * *Private key* is an [*Ethereum account private key*](https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens)
 * *Private keys* **are case sensitive**
 * *Signature* is sent in the *request body*.
